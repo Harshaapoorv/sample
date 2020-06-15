@@ -1,0 +1,17 @@
+body{
+	background-color: lightgrey;
+}
+header{
+	text-align: center;
+	background-color:lightpink;
+}
+section{
+	text-align: center;
+}
+li{
+	background-color: aqua;
+	text-align:center;
+}
+img{
+	width:500px;
+}

@@ -1,0 +1,27 @@
+/* this is comments */
+
+
+h1{
+	color:black !important;
+    font-family:;
+    font-style:italic; 
+    line-height: 100%;
+}
+details{
+	background-color: #0000FF;
+}
+p{
+	background-color: aqua;
+}
+body{
+	margin: 45px;
+	background-color:lightgrey;
+}
+img{
+	align-items: center;
+	width:20%;
+}
+header{
+	background-color: lightpink;
+	text-align: center;
+}
