@@ -1,0 +1,179 @@
+/* this is comments */
+
+
+header{
+	background-color: #00FFFF;
+	text-align: center;
+	padding-bottom: 10px;
+	font-size: 150%
+	border:solid 5px;
+}
+
+
+#header{
+	background:-webkit-linear-gradient(top,#000 0%,#0ff);
+	background:-moz-linear-gradient(top,#000 0%,#0ff);
+	background:-o-linear-gradient(top,#000 0%,#0ff);
+	background:-ms-linear-gradient(top,#000 0%,#0ff);
+	background:linear-gradient(top,#000 0%,#0ff);
+}
+
+h1{
+	color:#fff !important;
+    font-family:"Times";
+    font-style:italic; 
+    line-height: 100%;
+    display:inline-block;
+}
+
+a i{
+	float:right;
+	margin:15px;
+	top-margin:0px;
+	color:#fff;
+}
+
+section i{
+	color:#000;
+	float:right;
+}
+
+nav{
+	font-variant: small-caps;
+}
+
+nav a{
+	color:#000;
+	background:#B3B3B3;
+	border:solid #000 2px;
+	margin:2px;
+	padding:2px;
+	
+}
+
+/*a:hover{
+	background:#000;
+	color:#f00;
+}
+
+a:focus{
+	background:#FFF;
+	color:#f00;
+}
+
+a:active{
+	background:#f00;
+	color:#000;
+}
+
+a:visited{
+	background:#ff0;
+}
+*/
+
+body{
+	margin: 15px;
+	background-color:#D3D3D3;
+}
+
+.half{
+	display:inline-block;
+	width:47%;
+	float:left;
+	margin:1%;
+}
+
+.half details{
+	display:inline-block;
+	float:right;
+}
+.half summary{
+	background:#D3D3D3;
+}
+.half button{
+	background:#ffb6c1;
+	display:inline-block;
+	width:75px;
+	border:solid 1px;
+	padding:2px;
+	margin:2px;
+	color:#000;
+}
+
+.half a{
+	color:#000;
+	text-decoration: none;
+}
+
+h2{
+	background:#05A;
+	font-variant: small-caps;
+}
+
+.border{
+		border:solid 5px;
+}
+
+.Full{
+	clear:both;
+	display:block;
+	/*width:97%;*/
+}
+
+.diff{
+		border:solid #f00 2px;
+}
+
+details{
+	background-color: #00FFFF;
+	font-style:italic;
+}
+
+summary{
+	font-style: cursive;
+	color:black;
+	background-color: #00BBBB;
+}
+
+.login{
+	display:block;
+	float:center;
+	text-align: center;
+	margin:0px;
+	font-style:bold;
+	text-transform:small;
+}
+
+#submit{
+	margin:2px;
+}
+
+footer{
+	background-color: #00FFFF;
+	color:#fff;
+	border:5px;
+	clear:both;
+}
+
+#footer{
+	background:-webkit-linear-gradient(bottom,#000 0%,#0ff);
+	background:-moz-linear-gradient(bottom,#000 0%,#0ff);
+	background:-o-linear-gradient(bottom,#000 0%,#0ff);
+	background:-ms-linear-gradient(bottom,#000 0%,#0ff);
+	background:linear-gradient(bottom,#000 0%,#0ff);
+}
+
+img{
+	width:10%;
+	margin:auto;
+}
+
+address{
+	margin:2px;
+}
+
+footer a{
+	color:#ffb6c1;
+}
+
+
